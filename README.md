@@ -27,7 +27,7 @@ The following guides will show how to use x402 on Polygon. The x402 community al
 created [multiple examples](https://github.com/coinbase/x402/tree/main/examples/typescript) 
 which can be easily adapted.
 
-[Quickstart for Buyers](./quickstart-buyers.md)
-[Quickstart for Sellers](./quickstart-sellers.md)
+* [Quickstart for Buyers](./quickstart-buyers.md)
+* [Quickstart for Sellers](./quickstart-sellers.md)
 
 
