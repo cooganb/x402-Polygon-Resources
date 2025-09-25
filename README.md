@@ -19,15 +19,15 @@ agent-to-agent transactions, and micropayments.
 
 Polygon currently supports x402 on Mainnet and Amoy through the following facilitators:
 
-1. [x402.rs Facilitator Endpoint](https://facilitator.x402.rs/)
+1. Polygon Self-Hosted Facilitator: https://x402.polygon.technology/ 
 2. [ThirdWeb](https://playground.thirdweb.com/payments/x402)
-3. Polygon Self-Hosted Facilitator: https://x402.polygon.technology/
+3. [x402.rs Facilitator Endpoint](https://facilitator.x402.rs/)
 
 The following guides will show how to use x402 on Polygon. The x402 community also has
 created [multiple examples](https://github.com/coinbase/x402/tree/main/examples/typescript) 
 which can be easily adapted.
 
-Quickstart for Buyers
-Quickstart for Sellers
+[Quickstart for Buyers](./quickstart-buyers.md)
+[Quickstart for Sellers](./quickstart-sellers.md)
 
 
