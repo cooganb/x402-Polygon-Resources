@@ -49,7 +49,6 @@ const account = privateKeyToAccount("0xYourPrivateKey"); // we recommend using a
 
 You can use either `x402-fetch` or `x402-axios` to automatically handle 402 Payment Required responses and complete payment flows.
 
-> ⚠️ x402-fetch ⚠️
 > **x402-fetch** extends the native `fetch` API to handle 402 responses and payment headers for you. [Full example from Coinbase here](https://github.com/coinbase/x402/tree/main/examples/typescript/clients/fetch)
 
 ```typescript
